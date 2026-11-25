@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "I buried my dog last spring, so when something warm pressed "
-    "against my legs under the blanket tonight, I did not dare look down."
+    "I live alone. Last night my phone buzzed with a text from my own "
+    "number: \"Don't answer the door. I'm already inside.\""
 )
 
 MAX_CHARS = 199
