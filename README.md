@@ -6,9 +6,9 @@
 
 One line of horror for make.fun's "One Line, One Chill" bounty, $5 in USDC. A single sentence under 200 characters that has to frighten a reader in one breath — no setup, no paragraph.
 
-> I live alone. Last night my phone buzzed with a text from my own number: "Don't answer the door. I'm already inside."
+> I waved at my reflection this morning. It waved back three seconds late, with the wrong hand.
 
-The entry is a single line of 117 characters (limit 199), written to `/output/entry.txt` by `main.py`.
+The entry is a single line of 93 characters (limit 199), written to `/output/entry.txt` by `main.py`.
 
 ## Run it
 
