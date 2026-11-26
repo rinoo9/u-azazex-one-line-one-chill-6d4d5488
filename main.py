@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "I live alone. Last night my phone buzzed with a text from my own "
-    "number: \"Don't answer the door. I'm already inside.\""
+    "I waved at my reflection this morning. It waved back three seconds "
+    "late, with the wrong hand."
 )
 
 MAX_CHARS = 199
